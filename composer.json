@@ -1,0 +1,16 @@
+{
+  "name": "marca/xampp",
+  "autoload": {
+    "psr-4": {
+      "Utility\\": "utils/",
+      "Class\\": "class/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Marc Tadtad",
+      "email": "marcangeltadtad@gmail.com"
+    }
+  ],
+  "require": {}
+}
